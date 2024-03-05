@@ -1,1 +1,0 @@
-# ecommerce-3d-products
