@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Zoom Pegasus 36",
+        "price": 199.99,
+        "image": "img/1.png",
+        "description": "An iconic running shoe returns as the Nike Air Zoom Pegasus 36 offers more perforations and a designed mesh upper that combine to achieve breathability in strategic areas. A thinner collar and heel tongue help maintain a sleek profile while keeping comfort intact. Exposed Flywire cables provide a snug fit at any speed."
+    },
+    {
+        "id": 2,
+        "name": "Nike Revolution Next Nature",
+        "price": 399.99,
+        "image": "img/2.png",
+        "description": "The beloved favorite of all, Nike Revolution, arrives in its sixth version. Redesigned for those who want to combine a routine of training, walking, and running, or for you who seek comfort with a lot of style."
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Max",
+        "price": 899.99,
+        "image": "img/3.png",
+        "description": "The Nike Air Max line features athletic shoes known for their visible Air cushioning unit, providing responsive comfort and impact protection. With a variety of styles and breathable uppers, they offer versatility for running, walking, and casual wear, while their iconic design elements make them popular among athletes and sneaker enthusiasts alike."
+    },
+    {
+        "id": 4,
+        "name": "Nike Nike Downshifter 12",
+        "price": 299.99,
+        "image": "img/4.png",
+        "description": "The Nike Downshifter 12 is a lightweight and breathable running shoe with a cushioned midsole for comfort and support. It features a durable outsole for traction and stability, making it ideal for runners seeking both performance and style."
+    }
+]
